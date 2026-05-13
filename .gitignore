@@ -1,0 +1,16 @@
+.obsidian/*
+.tmp_pdf*
+inbox/*
+!inbox/.gitkeep
+
+jobs/*
+!jobs/.gitkeep
+
+trash/*
+!trash/.gitkeep
+
+coverletters/*
+!coverletters/.gitkeep
+
+resumes/*
+!resumes/.gitkeep
