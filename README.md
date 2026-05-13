@@ -60,49 +60,49 @@ https://obsidian.md/clipper
 Recommended Web Clipper setup for this vault:
 
 - Set the target vault to `CareerOS`.
-![alt text](image.png)
 - Create a new template note name something like: Job Application, then add Note Location and Vault, Content properties
-	![[Pasted image 20260513165917.png]]
+	![[vault_property.png]]
 	
 - In the Note content, paste below
-	
-		# {{title}}
+```markdown
+    # {{title}}
 
-        ## Job Description
+    ## Job Description
 
-        {{content}}
+    {{content}}
 
-        ---
+    ---
 
-        # AI Analysis
-        Company:
-        Role:
-        Location:
-        WorkMode:
-        TechStack:
-        Salary:
-        VisaSponsorship:
+    # AI Analysis
+    Company:
+    Role:
+    Location:
+    WorkMode:
+    TechStack:
+    Salary:
+    VisaSponsorship:
 
-        ## Match Strengths
+    ## Match Strengths
 
-        ## Weaknesses
+    ## Weaknesses
 
-        ## Resume Improvements
+    ## Resume Improvements
 
-        ## ATS Keywords
+    ## ATS Keywords
 
-        ## Interview Focus
+    ## Interview Focus
 
-        ---
+    ---
 
-        # Tailored Documents
+    # Tailored Documents
 
-        Resume::
-        CoverLetter::
+    Resume::
+    CoverLetter::
 
-        ---
+    ---
 
-        # Notes
+    # Notes
+```
 
 Those settings can be modified based on use cases.
 
