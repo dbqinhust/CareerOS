@@ -60,8 +60,9 @@ https://obsidian.md/clipper
 Recommended Web Clipper setup for this vault:
 
 - Set the target vault to `CareerOS`.
-- Create a new template note name something like: Job Application, then add Note Location and Vault, Content properties
-	![[vault_property.png]]
+- Create a new template note name something like: Job Application, then add Note Location and Vault, Content properties.
+
+![Web Clipper vault property setup](vault_property.png)
 	
 - In the Note content, paste below
 ```markdown
