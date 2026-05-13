@@ -14,3 +14,5 @@ coverletters/*
 
 resumes/*
 !resumes/.gitkeep
+
+*image*
