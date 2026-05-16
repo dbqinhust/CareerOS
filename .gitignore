@@ -6,6 +6,9 @@ inbox/*
 jobs/*
 !jobs/.gitkeep
 
+applied/*
+!applied/.gitkeep
+
 trash/*
 !trash/.gitkeep
 

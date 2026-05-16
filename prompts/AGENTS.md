@@ -59,8 +59,13 @@ When analyzing job postings:
 
 ## File Management rules
 
-After finishing all above work, if the chance is higher than 70%, move the file to jobs, otherwise to the trash.
-- inbox/   = raw clipped jobs
-- jobs/    = only promising jobs
-- trash/   = rejected jobs, safer than delete
+After finishing all above work:
+- If `Applied` is `Yes`, move the file to `applied/`.
+- Otherwise, if the chance is higher than 70%, move the file to `jobs/`.
+- Otherwise, move the file to `trash/`.
 
+Folder meanings:
+- inbox/   = raw clipped jobs
+- jobs/    = promising jobs that have not been applied to yet
+- applied/ = jobs already applied to
+- trash/   = rejected jobs, safer than delete
